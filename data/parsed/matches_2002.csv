@@ -1,0 +1,65 @@
+tournament,stage,date,home_team,away_team,home_score,away_score,venue,winner
+2002--south-korea-n-japan,Group A,2002-05-31,France,Senegal,0,1,"Seoul World Cup Stadium, Seoul",Senegal
+2002--south-korea-n-japan,Group A,2002-06-01,Uruguay,Denmark,1,2,"Munsu Cup Stadium, Ulsan",Denmark
+2002--south-korea-n-japan,Group A,2002-06-06,France,Uruguay,0,0,"Asiad Main Stadium, Busan",Draw
+2002--south-korea-n-japan,Group A,2002-06-06,Denmark,Senegal,1,1,"Daegu World Cup Stadium, Daegu",Draw
+2002--south-korea-n-japan,Group A,2002-06-11,Denmark,France,2,0,"Incheon Munhak Stadium, Incheon",Denmark
+2002--south-korea-n-japan,Group A,2002-06-11,Senegal,Uruguay,3,3,"Suwon World Cup Stadium, Suwon",Draw
+2002--south-korea-n-japan,Group B,2002-06-02,Paraguay,South Africa,2,2,"Asiad Main Stadium, Busan",Draw
+2002--south-korea-n-japan,Group B,2002-06-02,Spain,Slovenia,3,1,"Gwangju World Cup Stadium, Gwangju",Spain
+2002--south-korea-n-japan,Group B,2002-06-07,Spain,Paraguay,3,1,"Jeonju World Cup Stadium, Jeonju",Spain
+2002--south-korea-n-japan,Group B,2002-06-08,South Africa,Slovenia,1,0,"Daegu World Cup Stadium, Daegu",South Africa
+2002--south-korea-n-japan,Group B,2002-06-12,South Africa,Spain,2,3,"Daejeon World Cup Stadium, Daejeon",Spain
+2002--south-korea-n-japan,Group B,2002-06-12,Slovenia,Paraguay,1,3,"Jeju World Cup Stadium, Jeju",Paraguay
+2002--south-korea-n-japan,Group C,2002-06-03,Brazil,Turkey,2,1,"Munsu Cup Stadium, Ulsan",Brazil
+2002--south-korea-n-japan,Group C,2002-06-04,China,Costa Rica,0,2,"Gwangju World Cup Stadium, Gwangju",Costa Rica
+2002--south-korea-n-japan,Group C,2002-06-08,Brazil,China,4,0,"Jeju World Cup Stadium, Jeju",Brazil
+2002--south-korea-n-japan,Group C,2002-06-09,Costa Rica,Turkey,1,1,"Incheon Munhak Stadium, Incheon",Draw
+2002--south-korea-n-japan,Group C,2002-06-13,Costa Rica,Brazil,2,5,"Suwon World Cup Stadium, Suwon",Brazil
+2002--south-korea-n-japan,Group C,2002-06-13,Turkey,China,3,0,"Seoul World Cup Stadium, Seoul",Turkey
+2002--south-korea-n-japan,Group D,2002-06-04,South Korea,Poland,2,0,"Asiad Main Stadium, Busan",South Korea
+2002--south-korea-n-japan,Group D,2002-06-05,USA,Portugal,3,2,"Suwon World Cup Stadium, Suwon",USA
+2002--south-korea-n-japan,Group D,2002-06-10,South Korea,USA,1,1,"Daegu World Cup Stadium, Daegu",Draw
+2002--south-korea-n-japan,Group D,2002-06-10,Portugal,Poland,4,0,"Jeonju World Cup Stadium, Jeonju",Portugal
+2002--south-korea-n-japan,Group D,2002-06-14,Portugal,South Korea,0,1,"Incheon Munhak Stadium, Incheon",South Korea
+2002--south-korea-n-japan,Group D,2002-06-14,Poland,USA,3,1,"Daejeon World Cup Stadium, Daejeon",Poland
+2002--south-korea-n-japan,Group E,2002-06-01,Ireland,Cameroon,1,1,"Niigata Stadium, Niigata",Draw
+2002--south-korea-n-japan,Group E,2002-06-01,Germany,Saudi Arabia,8,0,"Sapporo Dome, Sapporo",Germany
+2002--south-korea-n-japan,Group E,2002-06-05,Germany,Ireland,1,1,"Kashima Soccer Stadium, Ibaraki",Draw
+2002--south-korea-n-japan,Group E,2002-06-06,Cameroon,Saudi Arabia,1,0,"Saitama Stadium, Saitama",Cameroon
+2002--south-korea-n-japan,Group E,2002-06-11,Cameroon,Germany,0,2,"Shizuoka Stadium, Shizuoka",Germany
+2002--south-korea-n-japan,Group E,2002-06-11,Saudi Arabia,Ireland,0,3,"International Stadium Yokohama, Yokohama",Ireland
+2002--south-korea-n-japan,Group F,2002-06-02,England,Sweden,1,1,"Saitama Stadium, Saitama",Draw
+2002--south-korea-n-japan,Group F,2002-06-02,Argentina,Nigeria,1,0,"Kashima Soccer Stadium, Ibaraki",Argentina
+2002--south-korea-n-japan,Group F,2002-06-07,Sweden,Nigeria,2,1,"Kobe Wing Stadium, Kobe",Sweden
+2002--south-korea-n-japan,Group F,2002-06-07,Argentina,England,0,1,"Sapporo Dome, Sapporo",England
+2002--south-korea-n-japan,Group F,2002-06-12,Sweden,Argentina,1,1,"Miyagi Stadium, Miyagi",Draw
+2002--south-korea-n-japan,Group F,2002-06-12,Nigeria,England,0,0,"Nagai Stadium, Osaka",Draw
+2002--south-korea-n-japan,Group G,2002-06-03,Croatia,Mexico,0,1,"Niigata Stadium, Niigata",Mexico
+2002--south-korea-n-japan,Group G,2002-06-03,Italy,Ecuador,2,0,"Sapporo Dome, Sapporo",Italy
+2002--south-korea-n-japan,Group G,2002-06-08,Italy,Croatia,1,2,"Kashima Soccer Stadium, Ibaraki",Croatia
+2002--south-korea-n-japan,Group G,2002-06-09,Mexico,Ecuador,2,1,"Miyagi Stadium, Miyagi",Mexico
+2002--south-korea-n-japan,Group G,2002-06-13,Mexico,Italy,1,1,"Ōita Stadium, Ōita",Draw
+2002--south-korea-n-japan,Group G,2002-06-13,Ecuador,Croatia,1,0,"International Stadium Yokohama, Yokohama",Ecuador
+2002--south-korea-n-japan,Group H,2002-06-04,Japan,Belgium,2,2,"Saitama Stadium, Saitama",Draw
+2002--south-korea-n-japan,Group H,2002-06-05,Russia,Tunisia,2,0,"Kobe Wing Stadium, Kobe",Russia
+2002--south-korea-n-japan,Group H,2002-06-09,Japan,Russia,1,0,"International Stadium Yokohama, Yokohama",Japan
+2002--south-korea-n-japan,Group H,2002-06-10,Tunisia,Belgium,1,1,"Ōita Stadium, Ōita",Draw
+2002--south-korea-n-japan,Group H,2002-06-14,Tunisia,Japan,0,2,"Nagai Stadium, Osaka",Japan
+2002--south-korea-n-japan,Group H,2002-06-14,Belgium,Russia,3,2,"Shizuoka Stadium, Shizuoka",Belgium
+2002--south-korea-n-japan,Round of 16,2002-06-15,Germany,Paraguay,1,0,"Jeju World Cup Stadium, Jeju",Germany
+2002--south-korea-n-japan,Round of 16,2002-06-15,Denmark,England,0,3,"Niigata Stadium, Niigata",England
+2002--south-korea-n-japan,Round of 16,2002-06-16,Sweden,Senegal,1,2,"Ōita Stadium, Ōita",Senegal
+2002--south-korea-n-japan,Round of 16,2002-06-16,Spain,Ireland,3,2,"Suwon World Cup Stadium, Suwon",Spain
+2002--south-korea-n-japan,Round of 16,2002-06-17,Mexico,USA,0,2,"Jeonju World Cup Stadium, Jeonju",USA
+2002--south-korea-n-japan,Round of 16,2002-06-17,Brazil,Belgium,2,0,"Kobe Wing Stadium, Kobe",Brazil
+2002--south-korea-n-japan,Round of 16,2002-06-18,Japan,Turkey,0,1,"Miyagi Stadium, Miyagi",Turkey
+2002--south-korea-n-japan,Round of 16,2002-06-18,South Korea,Italy,2,1,"Daejeon World Cup Stadium, Daejeon",South Korea
+2002--south-korea-n-japan,Quarter-finals,2002-06-21,England,Brazil,1,2,"Shizuoka Stadium, Shizuoka",Brazil
+2002--south-korea-n-japan,Quarter-finals,2002-06-21,Germany,USA,1,0,"Munsu Cup Stadium, Ulsan",Germany
+2002--south-korea-n-japan,Quarter-finals,2002-06-22,Spain,South Korea,3,5,"Gwangju World Cup Stadium, Gwangju",South Korea
+2002--south-korea-n-japan,Quarter-finals,2002-06-22,Senegal,Turkey,0,1,"Nagai Stadium, Osaka",Turkey
+2002--south-korea-n-japan,Semi-finals,2002-06-25,Germany,South Korea,1,0,"Seoul World Cup Stadium, Seoul",Germany
+2002--south-korea-n-japan,Semi-finals,2002-06-26,Brazil,Turkey,1,0,"Saitama Stadium, Saitama",Brazil
+2002--south-korea-n-japan,Third place play-off,2002-06-29,South Korea,Turkey,2,3,"Daegu World Cup Stadium, Daegu",Turkey
+2002--south-korea-n-japan,Final,2002-06-30,Germany,Brazil,0,2,"International Stadium Yokohama, Yokohama",Brazil

@@ -1,0 +1,200 @@
+[
+  {
+    "tournament": "1930--uruguay",
+    "stage": "Group 1",
+    "date": "1930-07-13",
+    "home_team": "France",
+    "away_team": "Mexico",
+    "home_score": 4,
+    "away_score": 1,
+    "venue": "Estadio Pocitos, Montevideo",
+    "winner": "France"
+  },
+  {
+    "tournament": "1930--uruguay",
+    "stage": "Group 1",
+    "date": "1930-07-15",
+    "home_team": "Argentina",
+    "away_team": "France",
+    "home_score": 1,
+    "away_score": 0,
+    "venue": "Estadio Parque Central, Montevideo",
+    "winner": "Argentina"
+  },
+  {
+    "tournament": "1930--uruguay",
+    "stage": "Group 1",
+    "date": "1930-07-16",
+    "home_team": "Chile",
+    "away_team": "Mexico",
+    "home_score": 3,
+    "away_score": 0,
+    "venue": "Estadio Parque Central, Montevideo",
+    "winner": "Chile"
+  },
+  {
+    "tournament": "1930--uruguay",
+    "stage": "Group 1",
+    "date": "1930-07-19",
+    "home_team": "Chile",
+    "away_team": "France",
+    "home_score": 1,
+    "away_score": 0,
+    "venue": "Estadio Centenario, Montevideo",
+    "winner": "Chile"
+  },
+  {
+    "tournament": "1930--uruguay",
+    "stage": "Group 1",
+    "date": "1930-07-19",
+    "home_team": "Argentina",
+    "away_team": "Mexico",
+    "home_score": 6,
+    "away_score": 3,
+    "venue": "Estadio Centenario, Montevideo",
+    "winner": "Argentina"
+  },
+  {
+    "tournament": "1930--uruguay",
+    "stage": "Group 1",
+    "date": "1930-07-22",
+    "home_team": "Argentina",
+    "away_team": "Chile",
+    "home_score": 3,
+    "away_score": 1,
+    "venue": "Estadio Centenario, Montevideo",
+    "winner": "Argentina"
+  },
+  {
+    "tournament": "1930--uruguay",
+    "stage": "Group 2",
+    "date": "1930-07-14",
+    "home_team": "Yugoslavia",
+    "away_team": "Brazil",
+    "home_score": 2,
+    "away_score": 1,
+    "venue": "Estadio Parque Central, Montevideo",
+    "winner": "Yugoslavia"
+  },
+  {
+    "tournament": "1930--uruguay",
+    "stage": "Group 2",
+    "date": "1930-07-17",
+    "home_team": "Yugoslavia",
+    "away_team": "Bolivia",
+    "home_score": 4,
+    "away_score": 0,
+    "venue": "Estadio Parque Central, Montevideo",
+    "winner": "Yugoslavia"
+  },
+  {
+    "tournament": "1930--uruguay",
+    "stage": "Group 2",
+    "date": "1930-07-20",
+    "home_team": "Brazil",
+    "away_team": "Bolivia",
+    "home_score": 4,
+    "away_score": 0,
+    "venue": "Estadio Centenario, Montevideo",
+    "winner": "Brazil"
+  },
+  {
+    "tournament": "1930--uruguay",
+    "stage": "Group 3",
+    "date": "1930-07-14",
+    "home_team": "Romania",
+    "away_team": "Peru",
+    "home_score": 3,
+    "away_score": 1,
+    "venue": "Estadio Pocitos, Montevideo",
+    "winner": "Romania"
+  },
+  {
+    "tournament": "1930--uruguay",
+    "stage": "Group 3",
+    "date": "1930-07-18",
+    "home_team": "Uruguay",
+    "away_team": "Peru",
+    "home_score": 1,
+    "away_score": 0,
+    "venue": "Estadio Centenario, Montevideo",
+    "winner": "Uruguay"
+  },
+  {
+    "tournament": "1930--uruguay",
+    "stage": "Group 3",
+    "date": "1930-07-21",
+    "home_team": "Uruguay",
+    "away_team": "Romania",
+    "home_score": 4,
+    "away_score": 0,
+    "venue": "Estadio Centenario, Montevideo",
+    "winner": "Uruguay"
+  },
+  {
+    "tournament": "1930--uruguay",
+    "stage": "Group 4",
+    "date": "1930-07-13",
+    "home_team": "United States",
+    "away_team": "Belgium",
+    "home_score": 3,
+    "away_score": 0,
+    "venue": "Estadio Parque Central, Montevideo",
+    "winner": "United States"
+  },
+  {
+    "tournament": "1930--uruguay",
+    "stage": "Group 4",
+    "date": "1930-07-17",
+    "home_team": "United States",
+    "away_team": "Paraguay",
+    "home_score": 3,
+    "away_score": 0,
+    "venue": "Estadio Parque Central, Montevideo",
+    "winner": "United States"
+  },
+  {
+    "tournament": "1930--uruguay",
+    "stage": "Group 4",
+    "date": "1930-07-20",
+    "home_team": "Paraguay",
+    "away_team": "Belgium",
+    "home_score": 1,
+    "away_score": 0,
+    "venue": "Estadio Centenario, Montevideo",
+    "winner": "Paraguay"
+  },
+  {
+    "tournament": "1930--uruguay",
+    "stage": "Semi-finals",
+    "date": "1930-07-26",
+    "home_team": "Argentina",
+    "away_team": "United States",
+    "home_score": 6,
+    "away_score": 1,
+    "venue": "Estadio Centenario, Montevideo",
+    "winner": "Argentina"
+  },
+  {
+    "tournament": "1930--uruguay",
+    "stage": "Semi-finals",
+    "date": "1930-07-27",
+    "home_team": "Uruguay",
+    "away_team": "Yugoslavia",
+    "home_score": 6,
+    "away_score": 1,
+    "venue": "Estadio Centenario, Montevideo",
+    "winner": "Uruguay"
+  },
+  {
+    "tournament": "1930--uruguay",
+    "stage": "Final",
+    "date": "1930-07-30",
+    "home_team": "Uruguay",
+    "away_team": "Argentina",
+    "home_score": 4,
+    "away_score": 2,
+    "venue": "Estadio Centenario, Montevideo",
+    "winner": "Uruguay"
+  }
+]

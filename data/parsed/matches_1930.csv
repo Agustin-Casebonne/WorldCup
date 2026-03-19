@@ -1,0 +1,19 @@
+tournament,stage,date,home_team,away_team,home_score,away_score,venue,winner
+1930--uruguay,Group 1,1930-07-13,France,Mexico,4,1,"Estadio Pocitos, Montevideo",France
+1930--uruguay,Group 1,1930-07-15,Argentina,France,1,0,"Estadio Parque Central, Montevideo",Argentina
+1930--uruguay,Group 1,1930-07-16,Chile,Mexico,3,0,"Estadio Parque Central, Montevideo",Chile
+1930--uruguay,Group 1,1930-07-19,Chile,France,1,0,"Estadio Centenario, Montevideo",Chile
+1930--uruguay,Group 1,1930-07-19,Argentina,Mexico,6,3,"Estadio Centenario, Montevideo",Argentina
+1930--uruguay,Group 1,1930-07-22,Argentina,Chile,3,1,"Estadio Centenario, Montevideo",Argentina
+1930--uruguay,Group 2,1930-07-14,Yugoslavia,Brazil,2,1,"Estadio Parque Central, Montevideo",Yugoslavia
+1930--uruguay,Group 2,1930-07-17,Yugoslavia,Bolivia,4,0,"Estadio Parque Central, Montevideo",Yugoslavia
+1930--uruguay,Group 2,1930-07-20,Brazil,Bolivia,4,0,"Estadio Centenario, Montevideo",Brazil
+1930--uruguay,Group 3,1930-07-14,Romania,Peru,3,1,"Estadio Pocitos, Montevideo",Romania
+1930--uruguay,Group 3,1930-07-18,Uruguay,Peru,1,0,"Estadio Centenario, Montevideo",Uruguay
+1930--uruguay,Group 3,1930-07-21,Uruguay,Romania,4,0,"Estadio Centenario, Montevideo",Uruguay
+1930--uruguay,Group 4,1930-07-13,United States,Belgium,3,0,"Estadio Parque Central, Montevideo",United States
+1930--uruguay,Group 4,1930-07-17,United States,Paraguay,3,0,"Estadio Parque Central, Montevideo",United States
+1930--uruguay,Group 4,1930-07-20,Paraguay,Belgium,1,0,"Estadio Centenario, Montevideo",Paraguay
+1930--uruguay,Semi-finals,1930-07-26,Argentina,United States,6,1,"Estadio Centenario, Montevideo",Argentina
+1930--uruguay,Semi-finals,1930-07-27,Uruguay,Yugoslavia,6,1,"Estadio Centenario, Montevideo",Uruguay
+1930--uruguay,Final,1930-07-30,Uruguay,Argentina,4,2,"Estadio Centenario, Montevideo",Uruguay

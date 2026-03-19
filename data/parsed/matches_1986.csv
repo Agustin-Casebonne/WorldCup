@@ -1,0 +1,53 @@
+tournament,stage,date,home_team,away_team,home_score,away_score,venue,winner
+1986--mexico,Group A,1986-05-31,Bulgaria,Italy,1,1,"Estadio Azteca, Mexico City",Draw
+1986--mexico,Group A,1986-06-02,Argentina,South Korea,3,1,"Estadio Olímpico Universitario, Mexico City",Argentina
+1986--mexico,Group A,1986-06-05,Italy,Argentina,1,1,"Estadio Cuauhtémoc, Puebla",Draw
+1986--mexico,Group A,1986-06-05,South Korea,Bulgaria,1,1,"Estadio Olímpico Universitario, Mexico City",Draw
+1986--mexico,Group A,1986-06-10,South Korea,Italy,2,3,"Estadio Cuauhtémoc, Puebla",Italy
+1986--mexico,Group A,1986-06-10,Argentina,Bulgaria,2,0,"Estadio Olímpico Universitario, Mexico City",Argentina
+1986--mexico,Group B,1986-06-03,Belgium,Mexico,1,2,"Estadio Azteca, Mexico City",Mexico
+1986--mexico,Group B,1986-06-04,Paraguay,Iraq,1,0,"Estadio Nemesio Díez, Toluca",Paraguay
+1986--mexico,Group B,1986-06-07,Mexico,Paraguay,1,1,"Estadio Azteca, Mexico City",Draw
+1986--mexico,Group B,1986-06-08,Iraq,Belgium,1,2,"Estadio Nemesio Díez, Toluca",Belgium
+1986--mexico,Group B,1986-06-11,Iraq,Mexico,0,1,"Estadio Azteca, Mexico City",Mexico
+1986--mexico,Group B,1986-06-11,Paraguay,Belgium,2,2,"Estadio Nemesio Díez, Toluca",Draw
+1986--mexico,Group C,1986-06-01,Canada,France,0,1,"Estadio Nou Camp, León",France
+1986--mexico,Group C,1986-06-02,Soviet Union,Hungary,6,0,"Estadio Sergio León Chavez, Irapuato",Soviet Union
+1986--mexico,Group C,1986-06-05,France,Soviet Union,1,1,"Estadio Nou Camp, León",Draw
+1986--mexico,Group C,1986-06-06,Hungary,Canada,2,0,"Estadio Sergio León Chavez, Irapuato",Hungary
+1986--mexico,Group C,1986-06-09,Hungary,France,0,3,"Estadio Nou Camp, León",France
+1986--mexico,Group C,1986-06-09,Soviet Union,Canada,2,0,"Estadio Sergio León Chavez, Irapuato",Soviet Union
+1986--mexico,Group D,1986-06-01,Spain,Brazil,0,1,"Estadio Jalisco, Guadalajara",Brazil
+1986--mexico,Group D,1986-06-03,Algeria,Northern Ireland,1,1,"Estadio Tres de Marzo, Guadalajara",Draw
+1986--mexico,Group D,1986-06-06,Brazil,Algeria,1,0,"Estadio Jalisco, Guadalajara",Brazil
+1986--mexico,Group D,1986-06-07,Northern Ireland,Spain,1,2,"Estadio Tres de Marzo, Guadalajara",Spain
+1986--mexico,Group D,1986-06-12,Northern Ireland,Brazil,0,3,"Estadio Jalisco, Guadalajara",Brazil
+1986--mexico,Group D,1986-06-12,Algeria,Spain,0,3,"Estadio Tecnológico, Monterrey",Spain
+1986--mexico,Group E,1986-06-04,Uruguay,West Germany,1,1,"Estadio La Corregidora, Querétaro",Draw
+1986--mexico,Group E,1986-06-04,Scotland,Denmark,0,1,"Estadio Neza 86, Nezahualcóyotl",Denmark
+1986--mexico,Group E,1986-06-08,West Germany,Scotland,2,1,"Estadio La Corregidora, Querétaro",West Germany
+1986--mexico,Group E,1986-06-08,Denmark,Uruguay,6,1,"Estadio Neza 86, Nezahualcóyotl",Denmark
+1986--mexico,Group E,1986-06-13,Denmark,West Germany,2,0,"Estadio La Corregidora, Querétaro",Denmark
+1986--mexico,Group E,1986-06-13,Scotland,Uruguay,0,0,"Estadio Neza 86, Nezahualcóyotl",Draw
+1986--mexico,Group F,1986-06-02,Morocco,Poland,0,0,"Estadio Universitario, Monterrey",Draw
+1986--mexico,Group F,1986-06-03,Portugal,England,1,0,"Estadio Tecnológico, Monterrey",Portugal
+1986--mexico,Group F,1986-06-06,England,Morocco,0,0,"Estadio Tecnológico, Monterrey",Draw
+1986--mexico,Group F,1986-06-07,Poland,Portugal,1,0,"Estadio Universitario, Monterrey",Poland
+1986--mexico,Group F,1986-06-11,Portugal,Morocco,1,3,"Estadio Tres de Marzo, Guadalajara",Morocco
+1986--mexico,Group F,1986-06-11,England,Poland,3,0,"Estadio Tecnológico, Monterrey",England
+1986--mexico,Round of 16,1986-06-15,Mexico,Bulgaria,2,0,"Estadio Azteca, Mexico City",Mexico
+1986--mexico,Round of 16,1986-06-15,Soviet Union,Belgium,3,4,"Estadio Nou Camp, León",Belgium
+1986--mexico,Round of 16,1986-06-16,Argentina,Uruguay,1,0,"Estadio Cuauhtémoc, Puebla",Argentina
+1986--mexico,Round of 16,1986-06-16,Brazil,Poland,4,0,"Estadio Jalisco, Guadalajara",Brazil
+1986--mexico,Round of 16,1986-06-17,Italy,France,0,2,"Estadio Olímpico Universitario, Mexico City",France
+1986--mexico,Round of 16,1986-06-17,Morocco,West Germany,0,1,"Estadio Universitario, Monterrey",West Germany
+1986--mexico,Round of 16,1986-06-18,England,Paraguay,3,0,"Estadio Azteca, Mexico City",England
+1986--mexico,Round of 16,1986-06-18,Denmark,Spain,1,5,"Estadio La Corregidora, Querétaro",Spain
+1986--mexico,Quarter-finals,1986-06-21,Brazil  3-4pen 1-1aet (,France,1,1,"Estadio Jalisco, Guadalajara",Draw
+1986--mexico,Quarter-finals,1986-06-21,West Germany  4-1pen,Mexico,0,0,"Estadio Universitario, Monterrey",Draw
+1986--mexico,Quarter-finals,1986-06-22,Spain    4-5pen,Belgium,1,1,"Estadio Cuauhtémoc, Puebla",Draw
+1986--mexico,Quarter-finals,1986-06-22,Argentina,England,2,1,"Estadio Azteca, Mexico City",Argentina
+1986--mexico,Semi-finals,1986-06-25,Argentina,Belgium,2,0,"Estadio Azteca, Mexico City",Argentina
+1986--mexico,Semi-finals,1986-06-25,France,West Germany,0,2,"Estadio Jalisco, Guadalajara",West Germany
+1986--mexico,Third place match,1986-06-28,France   4-2aet (,Belgium,2,2,"Estadio Cuauhtémoc, Puebla",Draw
+1986--mexico,Final,1986-06-29,Argentina,West Germany,3,2,"Estadio Azteca, Mexico City",Argentina

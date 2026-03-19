@@ -1,0 +1,39 @@
+tournament,stage,date,home_team,away_team,home_score,away_score,venue,winner
+1978--argentina,Group 1,1978-06-02,Argentina,Hungary,2,1,"Estadio Monumental, Buenos Aires",Argentina
+1978--argentina,Group 1,1978-06-02,Italy,France,2,1,"Estadio José María Minella, Mar del Plata",Italy
+1978--argentina,Group 1,1978-06-06,Argentina,France,2,1,"Estadio Monumental, Buenos Aires",Argentina
+1978--argentina,Group 1,1978-06-06,Italy,Hungary,3,1,"Estadio José María Minella, Mar del Plata",Italy
+1978--argentina,Group 1,1978-06-10,Argentina,Italy,0,1,"Estadio Monumental, Buenos Aires",Italy
+1978--argentina,Group 1,1978-06-10,France,Hungary,3,1,"Estadio José María Minella, Mar del Plata",France
+1978--argentina,Group 2,1978-06-01,West Germany,Poland,0,0,"Estadio Monumental, Buenos Aires",Draw
+1978--argentina,Group 2,1978-06-02,Tunisia,Mexico,3,1,"Estadio Gigante de Arroyito, Rosario",Tunisia
+1978--argentina,Group 2,1978-06-06,Poland,Tunisia,1,0,"Estadio Gigante de Arroyito, Rosario",Poland
+1978--argentina,Group 2,1978-06-06,West Germany,Mexico,6,0,"Estadio Chateau Carreras, Córdoba",West Germany
+1978--argentina,Group 2,1978-06-10,Poland,Mexico,3,1,"Estadio Gigante de Arroyito, Rosario",Poland
+1978--argentina,Group 2,1978-06-10,West Germany,Tunisia,0,0,"Estadio Olímpico Chateau Carreras, Córdoba",Draw
+1978--argentina,Group 3,1978-06-03,Austria,Spain,2,1,"Estadio José Amalfitani, Buenos Aires",Austria
+1978--argentina,Group 3,1978-06-03,Brazil,Sweden,1,1,"Estadio José Maria Minella, Mar del Plata",Draw
+1978--argentina,Group 3,1978-06-07,Austria,Sweden,1,0,"Estadio José Amalfitani, Buenos Aires",Austria
+1978--argentina,Group 3,1978-06-07,Brazil,Spain,0,0,"Estadio José Maria Minella, Mar del Plata",Draw
+1978--argentina,Group 3,1978-06-11,Spain,Sweden,1,0,"Estadio José Amalfitani, Buenos Aires",Spain
+1978--argentina,Group 3,1978-06-11,Brazil,Austria,1,0,"Estadio José Maria Minella, Mar del Plata",Brazil
+1978--argentina,Group 4,1978-06-03,Peru,Scotland,3,1,"Estadio Chateau Carreras, Córdoba",Peru
+1978--argentina,Group 4,1978-06-03,Netherlands,Iran,3,0,"Estadio Ciudad de Mendoza, Mendoza",Netherlands
+1978--argentina,Group 4,1978-06-07,Scotland,Iran,1,1,"Estadio Chateau Carreras, Córdoba",Draw
+1978--argentina,Group 4,1978-06-07,Netherlands,Peru,0,0,"Estadio Ciudad de Mendoza, Mendoza",Draw
+1978--argentina,Group 4,1978-06-11,Peru,Iran,4,1,"Estadio Chateau Carreras, Córdoba",Peru
+1978--argentina,Group 4,1978-06-11,Scotland,Netherlands,3,2,"Estadio Ciudad de Mendoza, Mendoza",Scotland
+1978--argentina,Group A,1978-06-14,Italy,West Germany,0,0,"Estadio Monumental, Buenos Aires",Draw
+1978--argentina,Group A,1978-06-14,Austria,Netherlands,1,5,"Estadio Chateau Carreras, Córdoba",Netherlands
+1978--argentina,Group A,1978-06-18,Italy,Austria,1,0,"Estadio Monumental, Buenos Aires",Italy
+1978--argentina,Group A,1978-06-18,Netherlands,West Germany,2,2,"Estadio Chateau Carreras, Córdoba",Draw
+1978--argentina,Group A,1978-06-21,Italy,Netherlands,1,2,"Estadio Monumental, Buenos Aires",Netherlands
+1978--argentina,Group A,1978-06-21,Austria,West Germany,3,2,"Estadio Chateau Carreras, Córdoba",Austria
+1978--argentina,Group B,1978-06-14,Argentina,Poland,2,0,"Estadio Gigante de Arroyito, Rosario",Argentina
+1978--argentina,Group B,1978-06-14,Peru,Brazil,0,3,"Estadio Ciudad de Mendoza, Mendoza",Brazil
+1978--argentina,Group B,1978-06-18,Argentina,Brazil,0,0,"Estadio Gigante de Arroyito, Rosario",Draw
+1978--argentina,Group B,1978-06-18,Peru,Poland,0,1,"Estadio Ciudad de Mendoza, Mendoza",Poland
+1978--argentina,Group B,1978-06-21,Argentina,Peru,6,0,"Estadio Gigante de Arroyito, Rosario",Argentina
+1978--argentina,Group B,1978-06-21,Poland,Brazil,1,3,"Estadio Ciudad de Mendoza, Mendoza",Brazil
+1978--argentina,Third place match,1978-06-24,Brazil,Italy,2,1,"Estadio Monumental, Buenos Aires",Brazil
+1978--argentina,Final,1978-06-25,Netherlands,Argentina,1,3,"Estadio Monumental, Buenos Aires",Argentina

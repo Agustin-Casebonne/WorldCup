@@ -1,0 +1,200 @@
+[
+  {
+    "tournament": "1938--france",
+    "stage": "First round",
+    "date": "1938-06-04",
+    "home_team": "Switzerland",
+    "away_team": "Germany",
+    "home_score": 1,
+    "away_score": 1,
+    "venue": "Parc des Princes, Paris",
+    "winner": "Draw"
+  },
+  {
+    "tournament": "1938--france",
+    "stage": "First round",
+    "date": "1938-06-05",
+    "home_team": "Hungary",
+    "away_team": "Dutch East Indies",
+    "home_score": 6,
+    "away_score": 0,
+    "venue": "Vélodrome Municipal, Reims",
+    "winner": "Hungary"
+  },
+  {
+    "tournament": "1938--france",
+    "stage": "First round",
+    "date": "1938-06-05",
+    "home_team": "France",
+    "away_team": "Belgium",
+    "home_score": 3,
+    "away_score": 1,
+    "venue": "Stade Olympique de Colombes, Paris",
+    "winner": "France"
+  },
+  {
+    "tournament": "1938--france",
+    "stage": "First round",
+    "date": "1938-06-05",
+    "home_team": "Cuba",
+    "away_team": "Romania",
+    "home_score": 3,
+    "away_score": 3,
+    "venue": "Stade Chapou, Toulouse",
+    "winner": "Draw"
+  },
+  {
+    "tournament": "1938--france",
+    "stage": "First round",
+    "date": "1938-06-05",
+    "home_team": "Italy",
+    "away_team": "Norway",
+    "home_score": 2,
+    "away_score": 1,
+    "venue": "Stade Vélodrome, Marseille",
+    "winner": "Italy"
+  },
+  {
+    "tournament": "1938--france",
+    "stage": "First round",
+    "date": "1938-06-05",
+    "home_team": "Brazil",
+    "away_team": "Poland",
+    "home_score": 6,
+    "away_score": 5,
+    "venue": "Stade de la Meinau, Strasbourg",
+    "winner": "Brazil"
+  },
+  {
+    "tournament": "1938--france",
+    "stage": "First round",
+    "date": "1938-06-05",
+    "home_team": "Czechoslovakia",
+    "away_team": "Netherlands",
+    "home_score": 3,
+    "away_score": 0,
+    "venue": "Stade municipal, Le Havre",
+    "winner": "Czechoslovakia"
+  },
+  {
+    "tournament": "1938--france",
+    "stage": "First round, Replays",
+    "date": "1938-06-09",
+    "home_team": "Cuba",
+    "away_team": "Romania",
+    "home_score": 2,
+    "away_score": 1,
+    "venue": "Stade Chapou, Toulouse",
+    "winner": "Cuba"
+  },
+  {
+    "tournament": "1938--france",
+    "stage": "First round, Replays",
+    "date": "1938-06-09",
+    "home_team": "Germany",
+    "away_team": "Switzerland",
+    "home_score": 2,
+    "away_score": 4,
+    "venue": "Parc des Princes, Paris",
+    "winner": "Switzerland"
+  },
+  {
+    "tournament": "1938--france",
+    "stage": "Quarter-finals",
+    "date": "1938-06-12",
+    "home_team": "Brazil",
+    "away_team": "Czechoslovakia",
+    "home_score": 1,
+    "away_score": 1,
+    "venue": "Parc Lescure, Bordeaux",
+    "winner": "Draw"
+  },
+  {
+    "tournament": "1938--france",
+    "stage": "Quarter-finals",
+    "date": "1938-06-12",
+    "home_team": "Switzerland",
+    "away_team": "Hungary",
+    "home_score": 0,
+    "away_score": 2,
+    "venue": "Stade Victor Boucquey, Lille",
+    "winner": "Hungary"
+  },
+  {
+    "tournament": "1938--france",
+    "stage": "Quarter-finals",
+    "date": "1938-06-12",
+    "home_team": "Sweden",
+    "away_team": "Cuba",
+    "home_score": 8,
+    "away_score": 0,
+    "venue": "Stade du Fort Carré, Antibes",
+    "winner": "Sweden"
+  },
+  {
+    "tournament": "1938--france",
+    "stage": "Quarter-finals",
+    "date": "1938-06-12",
+    "home_team": "France",
+    "away_team": "Italy",
+    "home_score": 1,
+    "away_score": 3,
+    "venue": "Stade Olympique de Colombes, Paris",
+    "winner": "Italy"
+  },
+  {
+    "tournament": "1938--france",
+    "stage": "Quarter-finals, Replays",
+    "date": "1938-06-14",
+    "home_team": "Brazil",
+    "away_team": "Czechoslovakia",
+    "home_score": 2,
+    "away_score": 1,
+    "venue": "Parc Lescure, Bordeaux",
+    "winner": "Brazil"
+  },
+  {
+    "tournament": "1938--france",
+    "stage": "Semi-finals",
+    "date": "1938-06-16",
+    "home_team": "Hungary",
+    "away_team": "Sweden",
+    "home_score": 5,
+    "away_score": 1,
+    "venue": "Parc des Princes, Paris",
+    "winner": "Hungary"
+  },
+  {
+    "tournament": "1938--france",
+    "stage": "Semi-finals",
+    "date": "1938-06-16",
+    "home_team": "Italy",
+    "away_team": "Brazil",
+    "home_score": 2,
+    "away_score": 1,
+    "venue": "Stade Vélodrome, Marseille",
+    "winner": "Italy"
+  },
+  {
+    "tournament": "1938--france",
+    "stage": "Match for third place",
+    "date": "1938-06-19",
+    "home_team": "Sweden",
+    "away_team": "Brazil",
+    "home_score": 2,
+    "away_score": 4,
+    "venue": "Parc Lescure, Bordeaux",
+    "winner": "Brazil"
+  },
+  {
+    "tournament": "1938--france",
+    "stage": "Final",
+    "date": "1938-06-19",
+    "home_team": "Hungary",
+    "away_team": "Italy",
+    "home_score": 2,
+    "away_score": 4,
+    "venue": "Stade Olympique de Colombes, Paris",
+    "winner": "Italy"
+  }
+]

@@ -1,0 +1,53 @@
+tournament,stage,date,home_team,away_team,home_score,away_score,venue,winner
+1990--italy,Group A,1990-06-09,Italy,Austria,1,0,"Stadio Olimpico, Rome",Italy
+1990--italy,Group A,1990-06-10,United States,Czechoslovakia,1,5,"Stadio Comunale, Florence",Czechoslovakia
+1990--italy,Group A,1990-06-14,Italy,United States,1,0,"Stadio Olimpico, Rome",Italy
+1990--italy,Group A,1990-06-15,Austria,Czechoslovakia,0,1,"Stadio Comunale, Florence",Czechoslovakia
+1990--italy,Group A,1990-06-19,Italy,Czechoslovakia,2,0,"Stadio Olimpico, Rome",Italy
+1990--italy,Group A,1990-06-19,Austria,United States,2,1,"Stadio Comunale, Florence",Austria
+1990--italy,Group B,1990-06-08,Argentina,Cameroon,0,1,"San Siro, Milan",Cameroon
+1990--italy,Group B,1990-06-09,Soviet Union,Romania,0,2,"Stadio San Nicola, Bari",Romania
+1990--italy,Group B,1990-06-13,Argentina,Soviet Union,2,0,"Stadio San Paolo, Naples",Argentina
+1990--italy,Group B,1990-06-14,Cameroon,Romania,2,1,"Stadio San Nicola, Bari",Cameroon
+1990--italy,Group B,1990-06-18,Argentina,Romania,1,1,"Stadio San Paolo, Naples",Draw
+1990--italy,Group B,1990-06-18,Cameroon,Soviet Union,0,4,"Stadio San Nicola, Bari",Soviet Union
+1990--italy,Group C,1990-06-10,Brazil,Sweden,2,1,"Stadio Delle Alpi, Turin",Brazil
+1990--italy,Group C,1990-06-11,Costa Rica,Scotland,1,0,"Stadio Luigi Ferraris, Genoa",Costa Rica
+1990--italy,Group C,1990-06-16,Brazil,Costa Rica,1,0,"Stadio Delle Alpi, Turin",Brazil
+1990--italy,Group C,1990-06-16,Sweden,Scotland,1,2,"Stadio Luigi Ferraris, Genoa",Scotland
+1990--italy,Group C,1990-06-20,Brazil,Scotland,1,0,"Stadio Delle Alpi, Turin",Brazil
+1990--italy,Group C,1990-06-20,Sweden,Costa Rica,1,2,"Stadio Luigi Ferraris, Genoa",Costa Rica
+1990--italy,Group D,1990-06-09,United Arab Emirates,Colombia,0,2,"Stadio Renato Dall'Ara, Bologna",Colombia
+1990--italy,Group D,1990-06-10,West Germany,Yugoslavia,4,1,"San Siro, Milan",West Germany
+1990--italy,Group D,1990-06-14,Yugoslavia,Colombia,1,0,"Stadio Renato Dall'Ara, Bologna",Yugoslavia
+1990--italy,Group D,1990-06-15,West Germany,United Arab Emirates,5,1,"San Siro, Milan",West Germany
+1990--italy,Group D,1990-06-19,West Germany,Colombia,1,1,"San Siro, Milan",Draw
+1990--italy,Group D,1990-06-19,Yugoslavia,United Arab Emirates,4,1,"Stadio Renato Dall'Ara, Bologna",Yugoslavia
+1990--italy,Group E,1990-06-12,Belgium,South Korea,2,0,"Stadio Marc'Antonio Bentegodi, Verona",Belgium
+1990--italy,Group E,1990-06-13,Uruguay,Spain,0,0,"Stadio Friuli, Udine",Draw
+1990--italy,Group E,1990-06-17,Belgium,Uruguay,3,1,"Stadio Marc'Antonio Bentegodi, Verona",Belgium
+1990--italy,Group E,1990-06-17,South Korea,Spain,1,3,"Stadio Friuli, Udine",Spain
+1990--italy,Group E,1990-06-21,Belgium,Spain,1,2,"Stadio Marc'Antonio Bentegodi, Verona",Spain
+1990--italy,Group E,1990-06-21,South Korea,Uruguay,0,1,"Stadio Friuli, Udine",Uruguay
+1990--italy,Group F,1990-06-11,England,Ireland,1,1,"Stadio Sant'Elia, Cagliari",Draw
+1990--italy,Group F,1990-06-12,Netherlands,Egypt,1,1,"Stadio La Favorita, Palermo",Draw
+1990--italy,Group F,1990-06-16,England,Netherlands,0,0,"Stadio Sant'Elia, Cagliari",Draw
+1990--italy,Group F,1990-06-17,Ireland,Egypt,0,0,"Stadio La Favorita, Palermo",Draw
+1990--italy,Group F,1990-06-21,England,Egypt,1,0,"Stadio Sant'Elia, Cagliari",England
+1990--italy,Group F,1990-06-21,Ireland,Netherlands,1,1,"Stadio La Favorita, Palermo",Draw
+1990--italy,Round of 16,1990-06-23,Cameroon,Colombia,2,1,"Stadio San Paolo, Naples",Cameroon
+1990--italy,Round of 16,1990-06-23,Czechoslovakia,Costa Rica,4,1,"Stadio San Nicola, Bari",Czechoslovakia
+1990--italy,Round of 16,1990-06-24,Brazil,Argentina,0,1,"Stadio Delle Alpi, Turin",Argentina
+1990--italy,Round of 16,1990-06-24,West Germany,Netherlands,2,1,"San Siro, Milan",West Germany
+1990--italy,Round of 16,1990-06-25,Ireland   5-4pen,Romania,0,0,"Stadio Luigi Ferraris, Genoa",Draw
+1990--italy,Round of 16,1990-06-25,Italy,Uruguay,2,0,"Stadio Olimpico, Rome",Italy
+1990--italy,Round of 16,1990-06-26,Spain,Yugoslavia,1,2,"Stadio Marc'Antonio Bentegodi, Verona",Yugoslavia
+1990--italy,Round of 16,1990-06-26,England,Belgium,1,0,"Stadio Renato Dall'Ara, Bologna",England
+1990--italy,Quarter-finals,1990-06-30,Yugoslavia   2-3pen,Argentina,0,0,"Stadio Artemio Franchi, Florence",Draw
+1990--italy,Quarter-finals,1990-06-30,Italy,Ireland,1,0,"Stadio Olimpico, Rome",Italy
+1990--italy,Quarter-finals,1990-07-01,West Germany,Czechoslovakia,1,0,"San Siro, Milan",West Germany
+1990--italy,Quarter-finals,1990-07-01,England,Cameroon,3,2,"Stadio San Paolo, Naples",England
+1990--italy,Semi-finals,1990-07-03,Italy    3-4pen,Argentina,1,1,"Stadio San Paolo, Naples",Draw
+1990--italy,Semi-finals,1990-07-04,West Germany   4-3pen,England,1,1,"Stadio delle Alpi, Turin",Draw
+1990--italy,Third place match,1990-07-07,Italy,England,2,1,"Stadio San Nicola, Bari",Italy
+1990--italy,Final,1990-07-08,West Germany,Argentina,1,0,"Stadio Olimpico, Rome",West Germany

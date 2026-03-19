@@ -1,0 +1,36 @@
+tournament,stage,date,home_team,away_team,home_score,away_score,venue,winner
+1958--sweden,Group 1,1958-06-08,West Germany,Argentina,3,1,"Malmö Stadion, Malmö",West Germany
+1958--sweden,Group 1,1958-06-08,Northern Ireland,Czechoslovakia,1,0,"Örjans Vall, Halmstad",Northern Ireland
+1958--sweden,Group 1,1958-06-11,Argentina,Northern Ireland,3,1,"Örjans Vall, Halmstad",Argentina
+1958--sweden,Group 1,1958-06-11,West Germany,Czechoslovakia,2,2,"Olympiastadion, Helsingborg",Draw
+1958--sweden,Group 1,1958-06-15,West Germany,Northern Ireland,2,2,"Malmö Stadion, Malmö",Draw
+1958--sweden,Group 1,1958-06-15,Czechoslovakia,Argentina,6,1,"Olympiastadion, Helsingborg",Czechoslovakia
+1958--sweden,Group 1 Play-off,1958-06-17,Northern Ireland,Czechoslovakia,2,1,"Malmö Stadion, Malmö",Northern Ireland
+1958--sweden,Group 2,1958-06-08,France,Paraguay,7,3,"Idrottsparken, Norrköping",France
+1958--sweden,Group 2,1958-06-08,Yugoslavia,Scotland,1,1,"Arosvallen, Västerås",Draw
+1958--sweden,Group 2,1958-06-11,Yugoslavia,France,3,2,"Arosvallen, Västerås",Yugoslavia
+1958--sweden,Group 2,1958-06-11,Paraguay,Scotland,3,2,"Idrottsparken, Norrköping",Paraguay
+1958--sweden,Group 2,1958-06-15,France,Scotland,2,1,"Eyravallen, Örebro",France
+1958--sweden,Group 2,1958-06-15,Paraguay,Yugoslavia,3,3,"Tunavallen, Eskilstuna",Draw
+1958--sweden,Group 3,1958-06-08,Sweden,Mexico,3,0,"Råsunda Stadium, Solna",Sweden
+1958--sweden,Group 3,1958-06-08,Hungary,Wales,1,1,"Jernvallen, Sandviken",Draw
+1958--sweden,Group 3,1958-06-11,Mexico,Wales,1,1,"Råsunda Stadium, Solna",Draw
+1958--sweden,Group 3,1958-06-12,Sweden,Hungary,2,1,"Råsunda Stadium, Solna",Sweden
+1958--sweden,Group 3,1958-06-15,Sweden,Wales,0,0,"Råsunda Stadium, Solna",Draw
+1958--sweden,Group 3,1958-06-15,Hungary,Mexico,4,0,"Jernvallen, Sandviken",Hungary
+1958--sweden,Group 3 Play-off,1958-06-17,Wales,Hungary,2,1,"Råsunda Stadium, Solna",Wales
+1958--sweden,Group 4,1958-06-08,Brazil,Austria,3,0,"Rimnersvallen, Uddevalla",Brazil
+1958--sweden,Group 4,1958-06-08,Soviet Union,England,2,2,"Ullevi, Gothenburg",Draw
+1958--sweden,Group 4,1958-06-11,Brazil,England,0,0,"Ullevi, Gothenburg",Draw
+1958--sweden,Group 4,1958-06-11,Soviet Union,Austria,2,0,"Ryavallen, Borås",Soviet Union
+1958--sweden,Group 4,1958-06-15,England,Austria,2,2,"Ryavallen, Borås",Draw
+1958--sweden,Group 4,1958-06-15,Brazil,Soviet Union,2,0,"Ullevi, Gothenburg",Brazil
+1958--sweden,Group 4 Play-off,1958-06-17,Soviet Union,England,1,0,"Ullevi, Gothenburg",Soviet Union
+1958--sweden,Quarter-finals,1958-06-19,France,Northern Ireland,4,0,"Idrottsparken, Norrköping",France
+1958--sweden,Quarter-finals,1958-06-19,Sweden,Soviet Union,2,0,"Råsunda Stadium, Solna",Sweden
+1958--sweden,Quarter-finals,1958-06-19,Brazil,Wales,1,0,"Ullevi, Gothenburg",Brazil
+1958--sweden,Quarter-finals,1958-06-19,West Germany,Yugoslavia,1,0,"Malmö Stadion, Malmö",West Germany
+1958--sweden,Semi-finals,1958-06-24,France,Brazil,2,5,"Råsunda Stadium, Solna",Brazil
+1958--sweden,Semi-finals,1958-06-24,West Germany,Sweden,1,3,"Ullevi, Gothenburg",Sweden
+1958--sweden,Semi-finals,1958-06-28,West Germany,France,3,6,"Ullevi, Gothenburg",France
+1958--sweden,Final,1958-06-29,Sweden,Brazil,2,5,"Råsunda Stadium, Solna",Brazil

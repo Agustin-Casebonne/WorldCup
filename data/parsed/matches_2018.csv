@@ -1,0 +1,65 @@
+tournament,stage,date,home_team,away_team,home_score,away_score,venue,winner
+2018--russia,Group A,,Thu Jun/14 18:00      Russia,Saudi Arabia,5,0,"Luzhniki Stadium, Moscow (UTC+3)",Thu Jun/14 18:00      Russia
+2018--russia,Group A,,Fri Jun/15 17:00      Egypt,Uruguay,0,1,"Ekaterinburg Arena, Ekaterinburg (UTC+5)",Uruguay
+2018--russia,Group A,,Tue Jun/19 21:00      Russia,Egypt,3,1,"Saint Petersburg Stadium, Saint Petersburg (UTC+3)",Tue Jun/19 21:00      Russia
+2018--russia,Group A,,Wed Jun/20 18:00      Uruguay,Saudi Arabia,1,0,"Rostov Arena, Rostov-on-Don (UTC+3)",Wed Jun/20 18:00      Uruguay
+2018--russia,Group A,,Mon Jun/25 18:00      Uruguay,Russia,3,0,"Samara Arena, Samara (UTC+4)",Mon Jun/25 18:00      Uruguay
+2018--russia,Group A,,Mon Jun/25 17:00      Saudi Arabia,Egypt,2,1,"Volgograd Arena, Volgograd (UTC+3)",Mon Jun/25 17:00      Saudi Arabia
+2018--russia,Group B,,Fri Jun/15 18:00     Morocco,Iran,0,1,"Saint Petersburg Stadium, Saint Petersburg (UTC+3)",Iran
+2018--russia,Group B,,Fri Jun/15 21:00     Portugal,Spain,3,3,"Fisht Stadium, Sochi (UTC+3)",Draw
+2018--russia,Group B,,Wed Jun/20 15:00     Portugal,Morocco,1,0,"Luzhniki Stadium, Moscow (UTC+3)",Wed Jun/20 15:00     Portugal
+2018--russia,Group B,,Wed Jun/20 21:00     Iran,Spain,0,1,"Kazan Arena, Kazan (UTC+3)",Spain
+2018--russia,Group B,,Mon Jun/25 21:00     Iran,Portugal,1,1,"Mordovia Arena, Saransk (UTC+3)",Draw
+2018--russia,Group B,,Mon Jun/25 20:00     Spain,Morocco,2,2,"Kaliningrad Stadium, Kaliningrad (UTC+2)",Draw
+2018--russia,Group C,,Sat Jun/16 13:00     France,Australia,2,1,"Kazan Arena, Kazan (UTC+3)",Sat Jun/16 13:00     France
+2018--russia,Group C,,Sat Jun/16 19:00     Peru,Denmark,0,1,"Mordovia Arena, Saransk (UTC+3)",Denmark
+2018--russia,Group C,,Thu Jun/21 16:00     Denmark,Australia,1,1,"Samara Arena, Samara (UTC+4)",Draw
+2018--russia,Group C,,Thu Jun/21 20:00     France,Peru,1,0,"Ekaterinburg Arena, Ekaterinburg (UTC+5)",Thu Jun/21 20:00     France
+2018--russia,Group C,,Tue Jun/26 17:00     Denmark,France,0,0,"Luzhniki Stadium, Moscow (UTC+3)",Draw
+2018--russia,Group C,,Tue Jun/26 17:00     Australia,Peru,0,2,"Fisht Stadium, Sochi (UTC+3)",Peru
+2018--russia,Group D,,Sat Jun/16 16:00      Argentina,Iceland,1,1,"Spartak Stadium, Moscow (UTC+3)",Draw
+2018--russia,Group D,,Sat Jun/16 21:00      Croatia,Nigeria,2,0,"Kaliningrad Stadium, Kaliningrad (UTC+2)",Sat Jun/16 21:00      Croatia
+2018--russia,Group D,,Thu Jun/21 21:00      Argentina,Croatia,0,3,"Nizhny Novgorod Stadium, Nizhny Novgorod (UTC+3)",Croatia
+2018--russia,Group D,,Fri Jun/22 18:00      Nigeria,Iceland,2,0,"Volgograd Arena, Volgograd (UTC+3)",Fri Jun/22 18:00      Nigeria
+2018--russia,Group D,,Tue Jun/26 21:00      Nigeria,Argentina,1,2,"Saint Petersburg Stadium, Saint Petersburg (UTC+3)",Argentina
+2018--russia,Group D,,Tue Jun/26 21:00      Iceland,Croatia,1,2,"Rostov Arena, Rostov-on-Don (UTC+3)",Croatia
+2018--russia,Group E,,Sun Jun/17 16:00       Costa Rica,Serbia,0,1,"Samara Arena, Samara (UTC+4)",Serbia
+2018--russia,Group E,,Sun Jun/17 21:00       Brazil,Switzerland,1,1,"Rostov Arena, Rostov-on-Don (UTC+3)",Draw
+2018--russia,Group E,,Fri Jun/22 15:00       Brazil,Costa Rica,2,0,"Saint Petersburg Stadium, Saint Petersburg (UTC+3)",Fri Jun/22 15:00       Brazil
+2018--russia,Group E,,Fri Jun/22 20:00       Serbia,Switzerland,1,2,"Kaliningrad Stadium, Kaliningrad (UTC+2)",Switzerland
+2018--russia,Group E,,Wed Jun/27 21:00       Serbia,Brazil,0,2,"Spartak Stadium, Moscow (UTC+3)",Brazil
+2018--russia,Group E,,Wed Jun/27 21:00       Switzerland,Costa Rica,2,2,"Nizhny Novgorod Stadium, Nizhny Novgorod (UTC+3)",Draw
+2018--russia,Group F,,Sun Jun/17 18:00        Germany,Mexico,0,1,"Luzhniki Stadium, Moscow (UTC+3)",Mexico
+2018--russia,Group F,,Mon Jun/18 15:00        Sweden,South Korea,1,0,"Nizhny Novgorod Stadium, Nizhny Novgorod (UTC+3)",Mon Jun/18 15:00        Sweden
+2018--russia,Group F,,Sat Jun/23 18:00        South Korea,Mexico,1,2,"Rostov Arena, Rostov-on-Don (UTC+3)",Mexico
+2018--russia,Group F,,Sat Jun/23 21:00        Germany,Sweden,2,1,"Fisht Stadium, Sochi (UTC+3)",Sat Jun/23 21:00        Germany
+2018--russia,Group F,,Wed Jun/27 17:00        South Korea,Germany,2,0,"Kazan Arena, Kazan (UTC+3)",Wed Jun/27 17:00        South Korea
+2018--russia,Group F,,Wed Jun/27 19:00        Mexico,Sweden,0,3,"Ekaterinburg Arena, Ekaterinburg (UTC+5)",Sweden
+2018--russia,Group G,,Mon Jun/18 18:00          Belgium,Panama,3,0,"Fisht Stadium, Sochi (UTC+3)",Mon Jun/18 18:00          Belgium
+2018--russia,Group G,,Mon Jun/18 21:00          Tunisia,England,1,2,"Volgograd Arena, Volgograd (UTC+3)",England
+2018--russia,Group G,,Sat Jun/23 15:00          Belgium,Tunisia,5,2,"Spartak Stadium, Moscow (UTC+3)",Sat Jun/23 15:00          Belgium
+2018--russia,Group G,,Sun Jun/24 15:00          England,Panama,6,1,"Nizhny Novgorod Stadium, Nizhny Novgorod (UTC+3)",Sun Jun/24 15:00          England
+2018--russia,Group G,,Thu Jun/28 20:00          England,Belgium,0,1,"Kaliningrad Stadium, Kaliningrad (UTC+2)",Belgium
+2018--russia,Group G,,Thu Jun/28 21:00          Panama,Tunisia,1,2,"Mordovia Arena, Saransk (UTC+3)",Tunisia
+2018--russia,Group H,,Tue Jun/19 15:00          Colombia,Japan,1,2,"Mordovia Arena, Saransk (UTC+3)",Japan
+2018--russia,Group H,,Tue Jun/19 18:00          Poland,Senegal,1,2,"Spartak Stadium, Moscow (UTC+3)",Senegal
+2018--russia,Group H,,Sun Jun/24 20:00          Japan,Senegal,2,2,"Ekaterinburg Arena, Ekaterinburg (UTC+5)",Draw
+2018--russia,Group H,,Sun Jun/24 21:00          Poland,Colombia,0,3,"Kazan Arena, Kazan (UTC+3)",Colombia
+2018--russia,Group H,,Thu Jun/28 17:00          Japan,Poland,0,1,"Volgograd Arena, Volgograd (UTC+3)",Poland
+2018--russia,Group H,,Thu Jun/28 18:00          Senegal,Colombia,0,1,"Samara Arena, Samara (UTC+4)",Colombia
+2018--russia,Round of 16,,Sat Jun/30 21:00        Uruguay,Portugal,2,1,"Fisht Stadium, Sochi (UTC+3)",Sat Jun/30 21:00        Uruguay
+2018--russia,Round of 16,,Sat Jun/30 17:00        France,Argentina,4,3,"Kazan Arena, Kazan (UTC+3)",Sat Jun/30 17:00        France
+2018--russia,Round of 16,,Sun Jul/1  17:00        Spain,Russia,3,4,"Luzhniki Stadium, Moscow (UTC+3)",Russia
+2018--russia,Round of 16,,Sun Jul/1  21:00        Croatia,Denmark,3,2,"Nizhny Novgorod Stadium, Nizhny Novgorod (UTC+3)",Sun Jul/1  21:00        Croatia
+2018--russia,Round of 16,,Mon Jul/2  18:00        Brazil,Mexico,2,0,"Samara Arena, Samara (UTC+4)",Mon Jul/2  18:00        Brazil
+2018--russia,Round of 16,,Mon Jul/2  21:00        Belgium,Japan,3,2,"Rostov Arena, Rostov-on-Don (UTC+3)",Mon Jul/2  21:00        Belgium
+2018--russia,Round of 16,,Tue Jul/3  17:00        Sweden,Switzerland,1,0,"Saint Petersburg Stadium, Saint Petersburg (UTC+3)",Tue Jul/3  17:00        Sweden
+2018--russia,Round of 16,,Tue Jul/3  21:00        Colombia,England,3,4,"Spartak Stadium, Moscow (UTC+3)",England
+2018--russia,Quarter-finals,,Fri Jul/6  17:00        Uruguay,France,0,2,"Nizhny Novgorod Stadium, Nizhny Novgorod (UTC+3)",France
+2018--russia,Quarter-finals,,Fri Jul/6  21:00        Brazil,Belgium,1,2,"Kazan Arena, Kazan (UTC+3)",Belgium
+2018--russia,Quarter-finals,,Sat Jul/7  21:00        Russia,Croatia,3,4,"Fisht Stadium, Sochi (UTC+3)",Croatia
+2018--russia,Quarter-finals,,Sat Jul/7  18:00        Sweden,England,0,2,"Samara Arena, Samara (UTC+4)",England
+2018--russia,Semi-finals,,Tue Jul/10  21:00       France,Belgium,1,0,"Saint Petersburg Stadium, St. Petersburg (UTC+3)",Tue Jul/10  21:00       France
+2018--russia,Semi-finals,,Wed Jul/11  21:00        Croatia,England,2,1,"Luzhniki Stadium, Moscow (UTC+3)",Wed Jul/11  21:00        Croatia
+2018--russia,Semi-finals,,Sat Jul/14  17:00        Belgium,England,2,0,"Saint Petersburg Stadium, St. Petersburg (UTC+3)",Sat Jul/14  17:00        Belgium
+2018--russia,Final,,Sun Jul/15  18:00       France,Croatia,4,2,"Luzhniki Stadium, Moscow (UTC+3)",Sun Jul/15  18:00       France

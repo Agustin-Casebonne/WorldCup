@@ -1,0 +1,53 @@
+tournament,stage,date,home_team,away_team,home_score,away_score,venue,winner
+1982--spain,Group 1,1982-06-14,Italy,Poland,0,0,"Balaídos, Vigo",Draw
+1982--spain,Group 1,1982-06-15,Peru,Cameroon,0,0,"Estadio de Riazor, A Coruña",Draw
+1982--spain,Group 1,1982-06-18,Italy,Peru,1,1,"Balaídos, Vigo",Draw
+1982--spain,Group 1,1982-06-19,Poland,Cameroon,0,0,"Estadio de Riazor, A Coruña",Draw
+1982--spain,Group 1,1982-06-22,Poland,Peru,5,1,"Estadio de Riazor, A Coruña",Poland
+1982--spain,Group 1,1982-06-23,Italy,Cameroon,1,1,"Balaídos, Vigo",Draw
+1982--spain,Group 2,1982-06-16,West Germany,Algeria,1,2,"El Molinón, Gijón",Algeria
+1982--spain,Group 2,1982-06-17,Chile,Austria,0,1,"Estadio Carlos Tartiere, Oviedo",Austria
+1982--spain,Group 2,1982-06-20,West Germany,Chile,4,1,"El Molinón, Gijón",West Germany
+1982--spain,Group 2,1982-06-21,Algeria,Austria,0,2,"Estadio Carlos Tartiere, Oviedo",Austria
+1982--spain,Group 2,1982-06-24,Algeria,Chile,3,2,"Estadio Carlos Tartiere, Oviedo",Algeria
+1982--spain,Group 2,1982-06-25,West Germany,Austria,1,0,"El Molinón, Gijón",West Germany
+1982--spain,Group 3,1982-06-13,Argentina,Belgium,0,1,"Camp Nou, Barcelona",Belgium
+1982--spain,Group 3,1982-06-15,Hungary,El Salvador,10,1,"Nuevo Estadio, Elche",Hungary
+1982--spain,Group 3,1982-06-18,Argentina,Hungary,4,1,"Estadio José Rico Pérez, Alicante",Argentina
+1982--spain,Group 3,1982-06-19,Belgium,El Salvador,1,0,"Nuevo Estadio, Elche",Belgium
+1982--spain,Group 3,1982-06-22,Belgium,Hungary,1,1,"Nuevo Estadio, Elche",Draw
+1982--spain,Group 3,1982-06-23,Argentina,El Salvador,2,0,"Estadio José Rico Pérez, Alicante",Argentina
+1982--spain,Group 4,1982-06-16,England,France,3,1,"Estadio San Mamés, Bilbao",England
+1982--spain,Group 4,1982-06-17,Czechoslovakia,Kuwait,1,1,"Estadio José Zorrilla, Valladolid",Draw
+1982--spain,Group 4,1982-06-20,England,Czechoslovakia,2,0,"Estadio San Mamés, Bilbao",England
+1982--spain,Group 4,1982-06-21,France,Kuwait,4,1,"Estadio José Zorrilla, Valladolid",France
+1982--spain,Group 4,1982-06-24,France,Czechoslovakia,1,1,"Estadio José Zorrilla, Valladolid",Draw
+1982--spain,Group 4,1982-06-25,England,Kuwait,1,0,"Estadio San Mamés, Bilbao",England
+1982--spain,Group 5,1982-06-16,Spain,Honduras,1,1,"Estadio Luis Casanova, Valencia",Draw
+1982--spain,Group 5,1982-06-17,Yugoslavia,Northern Ireland,0,0,"La Romareda, Zaragoza",Draw
+1982--spain,Group 5,1982-06-20,Spain,Yugoslavia,2,1,"Estadio Luis Casanova, Valencia",Spain
+1982--spain,Group 5,1982-06-21,Honduras,Northern Ireland,1,1,"La Romareda, Zaragoza",Draw
+1982--spain,Group 5,1982-06-24,Honduras,Yugoslavia,0,1,"La Romareda, Zaragoza",Yugoslavia
+1982--spain,Group 5,1982-06-25,Spain,Northern Ireland,0,1,"Estadio Luis Casanova, Valencia",Northern Ireland
+1982--spain,Group 6,1982-06-14,Brazil,Soviet Union,2,1,"Estadio Ramón Sánchez Pizjuán, Seville",Brazil
+1982--spain,Group 6,1982-06-15,Scotland,New Zealand,5,2,"Estadio La Rosaleda, Málaga",Scotland
+1982--spain,Group 6,1982-06-18,Brazil,Scotland,4,1,"Estadio Benito Villamarín, Seville",Brazil
+1982--spain,Group 6,1982-06-19,Soviet Union,New Zealand,3,0,"Estadio La Rosaleda, Málaga",Soviet Union
+1982--spain,Group 6,1982-06-22,Soviet Union,Scotland,2,2,"Estadio La Rosaleda, Málaga",Draw
+1982--spain,Group 6,1982-06-23,Brazil,New Zealand,4,0,"Estadio Benito Villamarín, Seville",Brazil
+1982--spain,Group A,1982-06-28,Poland,Belgium,3,0,"Camp Nou, Barcelona",Poland
+1982--spain,Group A,1982-07-01,Belgium,Soviet Union,0,1,"Camp Nou, Barcelona",Soviet Union
+1982--spain,Group A,1982-07-04,Soviet Union,Poland,0,0,"Camp Nou, Barcelona",Draw
+1982--spain,Group B,1982-06-29,West Germany,England,0,0,"Estadio Santiago Bernabéu, Madrid",Draw
+1982--spain,Group B,1982-07-02,West Germany,Spain,2,1,"Estadio Santiago Bernabéu, Madrid",West Germany
+1982--spain,Group B,1982-07-05,Spain,England,0,0,"Estadio Santiago Bernabéu, Madrid",Draw
+1982--spain,Group C,1982-06-29,Italy,Argentina,2,1,"Estadio Sarriá, Barcelona",Italy
+1982--spain,Group C,1982-07-02,Argentina,Brazil,1,3,"Estadio Sarriá, Barcelona",Brazil
+1982--spain,Group C,1982-07-05,Italy,Brazil,3,2,"Estadio Sarriá, Barcelona",Italy
+1982--spain,Group D,1982-06-28,Austria,France,0,1,"Estadio Vicente Calderón, Madrid",France
+1982--spain,Group D,1982-07-01,Austria,Northern Ireland,2,2,"Estadio Vicente Calderón, Madrid",Draw
+1982--spain,Group D,1982-07-04,Northern Ireland,France,1,4,"Estadio Vicente Calderón, Madrid",France
+1982--spain,Semi-finals,1982-07-08,Poland,Italy,0,2,"Camp Nou, Barcelona",Italy
+1982--spain,Semi-finals,1982-07-08,West Germany,France,5,4,"Estadio Ramón Sánchez Pizjuán, Seville",West Germany
+1982--spain,Third place match,1982-07-10,Poland,France,3,2,"Estadio José Rico Pérez, Alicante",Poland
+1982--spain,Final,1982-07-11,Italy,West Germany,3,1,Estadio Santiago Bernabéu,Italy

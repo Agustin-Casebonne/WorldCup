@@ -1,0 +1,33 @@
+tournament,stage,date,home_team,away_team,home_score,away_score,venue,winner
+1962--chile,Group 1,1962-05-30,Uruguay,Colombia,2,1,"Estadio Carlos Dittborn, Arica",Uruguay
+1962--chile,Group 1,1962-05-31,Soviet Union,Yugoslavia,2,0,"Estadio Carlos Dittborn, Arica",Soviet Union
+1962--chile,Group 1,1962-06-02,Yugoslavia,Uruguay,3,1,"Estadio Carlos Dittborn, Arica",Yugoslavia
+1962--chile,Group 1,1962-06-03,Soviet Union,Colombia,4,4,"Estadio Carlos Dittborn, Arica",Draw
+1962--chile,Group 1,1962-06-06,Soviet Union,Uruguay,2,1,"Estadio Carlos Dittborn, Arica",Soviet Union
+1962--chile,Group 1,1962-06-07,Yugoslavia,Colombia,5,0,"Estadio Carlos Dittborn, Arica",Yugoslavia
+1962--chile,Group 2,1962-05-30,Chile,Switzerland,3,1,"Estadio Nacional, Santiago",Chile
+1962--chile,Group 2,1962-05-31,West Germany,Italy,0,0,"Estadio Nacional, Santiago",Draw
+1962--chile,Group 2,1962-06-02,Chile,Italy,2,0,"Estadio Nacional, Santiago",Chile
+1962--chile,Group 2,1962-06-03,West Germany,Switzerland,2,1,"Estadio Nacional, Santiago",West Germany
+1962--chile,Group 2,1962-06-06,West Germany,Chile,2,0,"Estadio Nacional, Santiago",West Germany
+1962--chile,Group 2,1962-06-07,Italy,Switzerland,3,0,"Estadio Nacional, Santiago",Italy
+1962--chile,Group 3,1962-05-30,Brazil,Mexico,2,0,"Estadio Sausalito, Viña del Mar",Brazil
+1962--chile,Group 3,1962-05-31,Czechoslovakia,Spain,1,0,"Estadio Sausalito, Viña del Mar",Czechoslovakia
+1962--chile,Group 3,1962-06-02,Brazil,Czechoslovakia,0,0,"Estadio Sausalito, Viña del Mar",Draw
+1962--chile,Group 3,1962-06-03,Spain,Mexico,1,0,"Estadio Sausalito, Viña del Mar",Spain
+1962--chile,Group 3,1962-06-06,Brazil,Spain,2,1,"Estadio Sausalito, Viña del Mar",Brazil
+1962--chile,Group 3,1962-06-07,Mexico,Czechoslovakia,3,1,"Estadio Sausalito, Viña del Mar",Mexico
+1962--chile,Group 4,1962-05-30,Argentina,Bulgaria,1,0,"Estadio El Teniente, Rancagua",Argentina
+1962--chile,Group 4,1962-05-31,Hungary,England,2,1,"Estadio El Teniente, Rancagua",Hungary
+1962--chile,Group 4,1962-06-02,England,Argentina,3,1,"Estadio El Teniente, Rancagua",England
+1962--chile,Group 4,1962-06-03,Hungary,Bulgaria,6,1,"Estadio El Teniente, Rancagua",Hungary
+1962--chile,Group 4,1962-06-06,Hungary,Argentina,0,0,"Estadio El Teniente, Rancagua",Draw
+1962--chile,Group 4,1962-06-07,England,Bulgaria,0,0,"Estadio El Teniente, Rancagua",Draw
+1962--chile,Quarter-finals,1962-06-10,Chile,Soviet Union,2,1,"Estadio Carlos Dittborn, Arica",Chile
+1962--chile,Quarter-finals,1962-06-10,Yugoslavia,West Germany,1,0,"Estadio Nacional, Santiago",Yugoslavia
+1962--chile,Quarter-finals,1962-06-10,Brazil,England,3,1,"Estadio Sausalito, Viña del Mar",Brazil
+1962--chile,Quarter-finals,1962-06-10,Czechoslovakia,Hungary,1,0,"Estadio El Teniente, Rancagua",Czechoslovakia
+1962--chile,Semi-finals,1962-06-13,Brazil,Chile,4,2,"Estadio Nacional, Santiago",Brazil
+1962--chile,Semi-finals,1962-06-13,Czechoslovakia,Yugoslavia,3,1,"Estadio Sausalito, Viña del Mar",Czechoslovakia
+1962--chile,Third-place match,1962-06-16,Chile,Yugoslavia,1,0,"Estadio Nacional, Santiago",Chile
+1962--chile,Final,1962-06-17,Brazil,Czechoslovakia,3,1,"Estadio Nacional, Santiago",Brazil

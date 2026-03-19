@@ -1,0 +1,27 @@
+tournament,stage,date,home_team,away_team,home_score,away_score,venue,winner
+1954--switzerland,Group 1,1954-06-16,Brazil,Mexico,5,0,"Charmilles Stadium, Geneva",Brazil
+1954--switzerland,Group 1,1954-06-16,Yugoslavia,France,1,0,"Stade Olympique de la Pontaise, Lausanne",Yugoslavia
+1954--switzerland,Group 1,1954-06-19,Brazil,Yugoslavia,1,1,"Stade Olympique de la Pontaise, Lausanne",Draw
+1954--switzerland,Group 1,1954-06-19,France,Mexico,3,2,"Charmilles Stadium, Geneva",France
+1954--switzerland,Group 2,1954-06-17,West Germany,Turkey,4,1,"Wankdorf Stadium, Bern",West Germany
+1954--switzerland,Group 2,1954-06-17,Hungary,South Korea,9,0,"Hardturm Stadium, Zürich",Hungary
+1954--switzerland,Group 2,1954-06-20,Hungary,West Germany,8,3,"St. Jakob Stadium, Basel",Hungary
+1954--switzerland,Group 2,1954-06-20,Turkey,South Korea,7,0,"Charmilles Stadium, Geneva",Turkey
+1954--switzerland,Group 2 Play-off,1954-06-23,West Germany,Turkey,7,2,"Hardturm Stadium, Zürich",West Germany
+1954--switzerland,Group 3,1954-06-16,Uruguay,Czechoslovakia,2,0,"Wankdorf Stadium, Bern",Uruguay
+1954--switzerland,Group 3,1954-06-16,Austria,Scotland,1,0,"Hardturm Stadium, Zürich",Austria
+1954--switzerland,Group 3,1954-06-19,Austria,Czechoslovakia,5,0,"Hardturm Stadium, Zürich",Austria
+1954--switzerland,Group 3,1954-06-19,Uruguay,Scotland,7,0,"St. Jakob Stadium, Basel",Uruguay
+1954--switzerland,Group 4,1954-06-17,England,Belgium,4,4,"St. Jakob Stadium, Basel",Draw
+1954--switzerland,Group 4,1954-06-17,Switzerland,Italy,2,1,"Stade Olympique de la Pontaise, Lausanne",Switzerland
+1954--switzerland,Group 4,1954-06-20,England,Switzerland,2,0,"Wankdorf Stadium, Bern",England
+1954--switzerland,Group 4,1954-06-20,Italy,Belgium,4,1,"Cornaredo Stadium, Lugano",Italy
+1954--switzerland,Group 4 Play-off,1954-06-23,Switzerland,Italy,4,1,"St. Jakob Stadium, Basel",Switzerland
+1954--switzerland,Quarter-finals,1954-06-26,Austria,Switzerland,7,5,"Stade Olympique de la Pontaise, Lausanne",Austria
+1954--switzerland,Quarter-finals,1954-06-26,Uruguay,England,4,2,"St. Jakob Stadium, Basel",Uruguay
+1954--switzerland,Quarter-finals,1954-06-27,Yugoslavia,West Germany,0,2,"Charmilles Stadium, Geneva",West Germany
+1954--switzerland,Quarter-finals,1954-06-27,Brazil,Hungary,2,4,"Wankdorf Stadium, Bern",Hungary
+1954--switzerland,Semi-finals,1954-06-30,West Germany,Austria,6,1,"St. Jakob Stadium, Basel",West Germany
+1954--switzerland,Semi-finals,1954-06-30,Hungary,Uruguay,4,2,"Stade Olympique de la Pontaise, Lausanne",Hungary
+1954--switzerland,Third-place match         ## use just Third-place  - why? why not?,1954-07-03,Uruguay,Austria,1,3,"Hardturm Stadium, Zürich",Austria
+1954--switzerland,Final,1954-07-04,Hungary,West Germany,2,3,"Wankdorf Stadium, Bern",West Germany

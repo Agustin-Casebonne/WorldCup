@@ -1,0 +1,39 @@
+tournament,stage,date,home_team,away_team,home_score,away_score,venue,winner
+1974--west-germany,Group 1,1974-06-14,West Germany,Chile,1,0,"Olympiastadion, West Berlin",West Germany
+1974--west-germany,Group 1,1974-06-14,East Germany,Australia,2,0,"Volksparkstadion, Hamburg",East Germany
+1974--west-germany,Group 1,1974-06-18,Chile,East Germany,1,1,"Olympiastadion, West Berlin",Draw
+1974--west-germany,Group 1,1974-06-18,Australia,West Germany,0,3,"Volksparkstadion, Hamburg",West Germany
+1974--west-germany,Group 1,1974-06-22,Australia,Chile,0,0,"Olympiastadion, West Berlin",Draw
+1974--west-germany,Group 1,1974-06-22,East Germany,West Germany,1,0,"Volksparkstadion, Hamburg",East Germany
+1974--west-germany,Group 2,1974-06-13,Brazil,Yugoslavia,0,0,"Waldstadion, Frankfurt",Draw
+1974--west-germany,Group 2,1974-06-14,Zaire,Scotland,0,2,"Westfalenstadion, Dortmund",Scotland
+1974--west-germany,Group 2,1974-06-18,Yugoslavia,Zaire,9,0,"Parkstadion, Gelsenkirchen",Yugoslavia
+1974--west-germany,Group 2,1974-06-18,Scotland,Brazil,0,0,"Waldstadion, Frankfurt",Draw
+1974--west-germany,Group 2,1974-06-22,Scotland,Yugoslavia,1,1,"Waldstadion, Frankfurt",Draw
+1974--west-germany,Group 2,1974-06-22,Zaire,Brazil,0,3,"Parkstadion, Gelsenkirchen",Brazil
+1974--west-germany,Group 3,1974-06-15,Uruguay,Netherlands,0,2,"Niedersachsenstadion, Hanover",Netherlands
+1974--west-germany,Group 3,1974-06-15,Sweden,Bulgaria,0,0,"Rheinstadion, Düsseldorf",Draw
+1974--west-germany,Group 3,1974-06-19,Netherlands,Sweden,0,0,"Westfalenstadion, Dortmund",Draw
+1974--west-germany,Group 3,1974-06-19,Uruguay,Bulgaria,1,1,"Niedersachsenstadion, Hanover",Draw
+1974--west-germany,Group 3,1974-06-23,Netherlands,Bulgaria,4,1,"Westfalenstadion, Dortmund",Netherlands
+1974--west-germany,Group 3,1974-06-23,Sweden,Uruguay,3,0,"Rheinstadion, Düsseldorf",Sweden
+1974--west-germany,Group 4,1974-06-15,Italy,Haiti,3,1,"Olympiastadion, Munich",Italy
+1974--west-germany,Group 4,1974-06-15,Poland,Argentina,3,2,"Neckarstadion, Stuttgart",Poland
+1974--west-germany,Group 4,1974-06-19,Haiti,Poland,0,7,"Olympiastadion, Munich",Poland
+1974--west-germany,Group 4,1974-06-19,Argentina,Italy,1,1,"Neckarstadion, Stuttgart",Draw
+1974--west-germany,Group 4,1974-06-23,Argentina,Haiti,4,1,"Olympiastadion, Munich",Argentina
+1974--west-germany,Group 4,1974-06-23,Poland,Italy,2,1,"Neckarstadion, Stuttgart",Poland
+1974--west-germany,Group A,1974-06-26,Brazil,East Germany,1,0,"Niedersachsenstadion, Hanover",Brazil
+1974--west-germany,Group A,1974-06-26,Netherlands,Argentina,4,0,"Parkstadion, Gelsenkirchen",Netherlands
+1974--west-germany,Group A,1974-06-30,East Germany,Netherlands,0,2,"Parkstadion, Gelsenkirchen",Netherlands
+1974--west-germany,Group A,1974-06-30,Argentina,Brazil,1,2,"Niedersachsenstadion, Hanover",Brazil
+1974--west-germany,Group A,1974-07-03,Argentina,East Germany,1,1,"Parkstadion, Gelsenkirchen",Draw
+1974--west-germany,Group A,1974-07-03,Netherlands,Brazil,2,0,"Westfalenstadion, Dortmund",Netherlands
+1974--west-germany,Group B,1974-06-26,Yugoslavia,West Germany,0,2,"Rheinstadion, Düsseldorf",West Germany
+1974--west-germany,Group B,1974-06-26,Sweden,Poland,0,1,"Neckarstadion, Stuttgart",Poland
+1974--west-germany,Group B,1974-06-30,West Germany,Sweden,4,2,"Rheinstadion, Düsseldorf",West Germany
+1974--west-germany,Group B,1974-06-30,Poland,Yugoslavia,2,1,"Waldstadion, Frankfurt",Poland
+1974--west-germany,Group B,1974-07-03,Poland,West Germany,0,1,"Waldstadion, Frankfurt",West Germany
+1974--west-germany,Group B,1974-07-03,Sweden,Yugoslavia,2,1,"Rheinstadion, Düsseldorf",Sweden
+1974--west-germany,Group B,1974-07-06,Brazil,Poland,0,1,"Olympiastadion, Munich",Poland
+1974--west-germany,Final,1974-07-07,Netherlands,West Germany,1,2,"Olympiastadion, Munich",West Germany

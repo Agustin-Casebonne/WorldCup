@@ -1,0 +1,23 @@
+tournament,stage,date,home_team,away_team,home_score,away_score,venue,winner
+1950--brazil,Group 1,1950-06-24,Brazil,Mexico,4,0,"Estádio do Maracanã, Rio de Janeiro",Brazil
+1950--brazil,Group 1,1950-06-25,Yugoslavia,Switzerland,3,0,"Estádio Independência, Belo Horizonte",Yugoslavia
+1950--brazil,Group 1,1950-06-28,Brazil,Switzerland,2,2,"Estádio do Pacaembu, São Paulo",Draw
+1950--brazil,Group 1,1950-06-28,Yugoslavia,Mexico,4,1,"Estádio dos Eucaliptos, Porto Alegre",Yugoslavia
+1950--brazil,Group 1,1950-07-01,Brazil,Yugoslavia,2,0,"Estádio do Maracanã, Rio de Janeiro",Brazil
+1950--brazil,Group 1,1950-07-02,Switzerland,Mexico,2,1,"Estádio dos Eucaliptos, Porto Alegre",Switzerland
+1950--brazil,Group 2,1950-06-25,England,Chile,2,0,"Estádio do Maracanã, Rio de Janeiro",England
+1950--brazil,Group 2,1950-06-25,Spain,United States,3,1,"Estádio Durival de Britto, Curitiba",Spain
+1950--brazil,Group 2,1950-06-29,Spain,Chile,2,0,"Estádio do Maracanã, Rio de Janeiro",Spain
+1950--brazil,Group 2,1950-06-29,United States,England,1,0,"Estádio Independência, Belo Horizonte",United States
+1950--brazil,Group 2,1950-07-02,Spain,England,1,0,"Estádio do Maracanã, Rio de Janeiro",Spain
+1950--brazil,Group 2,1950-07-02,Chile,United States,5,2,"Estádio Ilha do Retiro, Recife",Chile
+1950--brazil,Group 3,1950-06-25,Sweden,Italy,3,2,"Estádio do Pacaembu, São Paulo",Sweden
+1950--brazil,Group 3,1950-06-29,Sweden,Paraguay,2,2,"Estádio Durival Britto, Curitiba",Draw
+1950--brazil,Group 3,1950-07-02,Italy,Paraguay,2,0,"Estádio do Pacaembu, São Paulo",Italy
+1950--brazil,Group 4,1950-07-02,Uruguay,Bolivia,8,0,"Estádio Independência, Belo Horizonte",Uruguay
+1950--brazil,Final Round,1950-07-09,Uruguay,Spain,2,2,"Estádio do Pacaembu, São Paulo",Draw
+1950--brazil,Final Round,1950-07-09,Brazil,Sweden,7,1,"Estádio do Maracanã, Rio de Janeiro",Brazil
+1950--brazil,Final Round,1950-07-13,Brazil,Spain,6,1,"Estádio do Maracanã, Rio de Janeiro",Brazil
+1950--brazil,Final Round,1950-07-13,Uruguay,Sweden,3,2,"Estádio do Pacaembu, São Paulo",Uruguay
+1950--brazil,Final Round,1950-07-16,Sweden,Spain,3,1,"Estádio do Pacaembu, São Paulo",Sweden
+1950--brazil,Final Round,1950-07-16,Uruguay,Brazil,2,1,"Estádio do Maracanã, Rio de Janeiro",Uruguay

@@ -1,0 +1,19 @@
+tournament,stage,date,home_team,away_team,home_score,away_score,venue,winner
+1938--france,First round,1938-06-04,Switzerland,Germany,1,1,"Parc des Princes, Paris",Draw
+1938--france,First round,1938-06-05,Hungary,Dutch East Indies,6,0,"Vélodrome Municipal, Reims",Hungary
+1938--france,First round,1938-06-05,France,Belgium,3,1,"Stade Olympique de Colombes, Paris",France
+1938--france,First round,1938-06-05,Cuba,Romania,3,3,"Stade Chapou, Toulouse",Draw
+1938--france,First round,1938-06-05,Italy,Norway,2,1,"Stade Vélodrome, Marseille",Italy
+1938--france,First round,1938-06-05,Brazil,Poland,6,5,"Stade de la Meinau, Strasbourg",Brazil
+1938--france,First round,1938-06-05,Czechoslovakia,Netherlands,3,0,"Stade municipal, Le Havre",Czechoslovakia
+1938--france,"First round, Replays",1938-06-09,Cuba,Romania,2,1,"Stade Chapou, Toulouse",Cuba
+1938--france,"First round, Replays",1938-06-09,Germany,Switzerland,2,4,"Parc des Princes, Paris",Switzerland
+1938--france,Quarter-finals,1938-06-12,Brazil,Czechoslovakia,1,1,"Parc Lescure, Bordeaux",Draw
+1938--france,Quarter-finals,1938-06-12,Switzerland,Hungary,0,2,"Stade Victor Boucquey, Lille",Hungary
+1938--france,Quarter-finals,1938-06-12,Sweden,Cuba,8,0,"Stade du Fort Carré, Antibes",Sweden
+1938--france,Quarter-finals,1938-06-12,France,Italy,1,3,"Stade Olympique de Colombes, Paris",Italy
+1938--france,"Quarter-finals, Replays",1938-06-14,Brazil,Czechoslovakia,2,1,"Parc Lescure, Bordeaux",Brazil
+1938--france,Semi-finals,1938-06-16,Hungary,Sweden,5,1,"Parc des Princes, Paris",Hungary
+1938--france,Semi-finals,1938-06-16,Italy,Brazil,2,1,"Stade Vélodrome, Marseille",Italy
+1938--france,Match for third place,1938-06-19,Sweden,Brazil,2,4,"Parc Lescure, Bordeaux",Brazil
+1938--france,Final,1938-06-19,Hungary,Italy,2,4,"Stade Olympique de Colombes, Paris",Italy

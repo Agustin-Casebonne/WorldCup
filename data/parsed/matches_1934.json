@@ -1,0 +1,189 @@
+[
+  {
+    "tournament": "1934--italy",
+    "stage": "Preliminary round",
+    "date": "1934-05-27",
+    "home_team": "Sweden",
+    "away_team": "Argentina",
+    "home_score": 3,
+    "away_score": 2,
+    "venue": "Stadio Littoriale, Bologna",
+    "winner": "Sweden"
+  },
+  {
+    "tournament": "1934--italy",
+    "stage": "Preliminary round",
+    "date": "1934-05-27",
+    "home_team": "Austria",
+    "away_team": "France",
+    "home_score": 3,
+    "away_score": 2,
+    "venue": "Stadio Benito Mussolini, Turin",
+    "winner": "Austria"
+  },
+  {
+    "tournament": "1934--italy",
+    "stage": "Preliminary round",
+    "date": "1934-05-27",
+    "home_team": "Germany",
+    "away_team": "Belgium",
+    "home_score": 5,
+    "away_score": 2,
+    "venue": "Stadio Giovanni Berta, Florence",
+    "winner": "Germany"
+  },
+  {
+    "tournament": "1934--italy",
+    "stage": "Preliminary round",
+    "date": "1934-05-27",
+    "home_team": "Spain",
+    "away_team": "Brazil",
+    "home_score": 3,
+    "away_score": 1,
+    "venue": "Stadio Luigi Ferraris, Genoa",
+    "winner": "Spain"
+  },
+  {
+    "tournament": "1934--italy",
+    "stage": "Preliminary round",
+    "date": "1934-05-27",
+    "home_team": "Hungary",
+    "away_team": "Egypt",
+    "home_score": 4,
+    "away_score": 2,
+    "venue": "Stadio Giorgio Ascarelli, Naples",
+    "winner": "Hungary"
+  },
+  {
+    "tournament": "1934--italy",
+    "stage": "Preliminary round",
+    "date": "1934-05-27",
+    "home_team": "Switzerland",
+    "away_team": "Netherlands",
+    "home_score": 3,
+    "away_score": 2,
+    "venue": "Stadio San Siro, Milan",
+    "winner": "Switzerland"
+  },
+  {
+    "tournament": "1934--italy",
+    "stage": "Preliminary round",
+    "date": "1934-05-27",
+    "home_team": "Italy",
+    "away_team": "United States",
+    "home_score": 7,
+    "away_score": 1,
+    "venue": "Stadio Nazionale PNF, Rome",
+    "winner": "Italy"
+  },
+  {
+    "tournament": "1934--italy",
+    "stage": "Preliminary round",
+    "date": "1934-05-27",
+    "home_team": "Czechoslovakia",
+    "away_team": "Romania",
+    "home_score": 2,
+    "away_score": 1,
+    "venue": "Stadio Littorio, Trieste",
+    "winner": "Czechoslovakia"
+  },
+  {
+    "tournament": "1934--italy",
+    "stage": "Quarter-finals",
+    "date": "1934-05-31",
+    "home_team": "Czechoslovakia",
+    "away_team": "Switzerland",
+    "home_score": 3,
+    "away_score": 2,
+    "venue": "Stadio Benito Mussolini, Turin",
+    "winner": "Czechoslovakia"
+  },
+  {
+    "tournament": "1934--italy",
+    "stage": "Quarter-finals",
+    "date": "1934-05-31",
+    "home_team": "Germany",
+    "away_team": "Sweden",
+    "home_score": 2,
+    "away_score": 1,
+    "venue": "Stadio San Siro, Milan",
+    "winner": "Germany"
+  },
+  {
+    "tournament": "1934--italy",
+    "stage": "Quarter-finals",
+    "date": "1934-05-31",
+    "home_team": "Italy",
+    "away_team": "Spain",
+    "home_score": 1,
+    "away_score": 1,
+    "venue": "Stadio Giovanni Berta, Florence",
+    "winner": "Draw"
+  },
+  {
+    "tournament": "1934--italy",
+    "stage": "Quarter-finals",
+    "date": "1934-05-31",
+    "home_team": "Austria",
+    "away_team": "Hungary",
+    "home_score": 2,
+    "away_score": 1,
+    "venue": "Stadio Littoriale, Bologna",
+    "winner": "Austria"
+  },
+  {
+    "tournament": "1934--italy",
+    "stage": "Quarter-finals, Replays",
+    "date": "1934-06-01",
+    "home_team": "Italy",
+    "away_team": "Spain",
+    "home_score": 1,
+    "away_score": 0,
+    "venue": "Stadio Giovanni Berta, Florence",
+    "winner": "Italy"
+  },
+  {
+    "tournament": "1934--italy",
+    "stage": "Semi-finals",
+    "date": "1934-06-03",
+    "home_team": "Italy",
+    "away_team": "Austria",
+    "home_score": 1,
+    "away_score": 0,
+    "venue": "Stadio San Siro, Milan",
+    "winner": "Italy"
+  },
+  {
+    "tournament": "1934--italy",
+    "stage": "Semi-finals",
+    "date": "1934-06-03",
+    "home_team": "Czechoslovakia",
+    "away_team": "Germany",
+    "home_score": 3,
+    "away_score": 1,
+    "venue": "Stadio Nazionale PNF, Rome",
+    "winner": "Czechoslovakia"
+  },
+  {
+    "tournament": "1934--italy",
+    "stage": "Third-place match",
+    "date": "1934-06-07",
+    "home_team": "Germany",
+    "away_team": "Austria",
+    "home_score": 3,
+    "away_score": 2,
+    "venue": "Stadio Giorgio Ascarelli, Naples",
+    "winner": "Germany"
+  },
+  {
+    "tournament": "1934--italy",
+    "stage": "Final",
+    "date": "1934-06-10",
+    "home_team": "Italy",
+    "away_team": "Czechoslovakia",
+    "home_score": 2,
+    "away_score": 1,
+    "venue": "Stadio Nazionale PNF, Rome",
+    "winner": "Italy"
+  }
+]

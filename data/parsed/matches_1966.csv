@@ -1,0 +1,33 @@
+tournament,stage,date,home_team,away_team,home_score,away_score,venue,winner
+1966--england,Group 1,1966-07-11,England,Uruguay,0,0,"Wembley Stadium, London",Draw
+1966--england,Group 1,1966-07-13,France,Mexico,1,1,"Wembley Stadium, London",Draw
+1966--england,Group 1,1966-07-15,Uruguay,France,2,1,"White City Stadium, London",Uruguay
+1966--england,Group 1,1966-07-16,England,Mexico,2,0,"Wembley Stadium, London",England
+1966--england,Group 1,1966-07-19,Mexico,Uruguay,0,0,"Wembley Stadium, London",Draw
+1966--england,Group 1,1966-07-20,England,France,2,0,"Wembley Stadium, London",England
+1966--england,Group 2,1966-07-12,West Germany,Switzerland,5,0,"Hillsborough Stadium, Sheffield",West Germany
+1966--england,Group 2,1966-07-13,Argentina,Spain,2,1,"Villa Park, Birmingham",Argentina
+1966--england,Group 2,1966-07-15,Spain,Switzerland,2,1,"Hillsborough Stadium, Sheffield",Spain
+1966--england,Group 2,1966-07-16,Argentina,West Germany,0,0,"Villa Park, Birmingham",Draw
+1966--england,Group 2,1966-07-19,Argentina,Switzerland,2,0,"Hillsborough Stadium, Sheffield",Argentina
+1966--england,Group 2,1966-07-20,West Germany,Spain,2,1,"Villa Park, Birmingham",West Germany
+1966--england,Group 3,1966-07-12,Brazil,Bulgaria,2,0,"Goodison Park, Liverpool",Brazil
+1966--england,Group 3,1966-07-13,Portugal,Hungary,3,1,"Old Trafford, Manchester",Portugal
+1966--england,Group 3,1966-07-15,Hungary,Brazil,3,1,"Goodison Park, Liverpool",Hungary
+1966--england,Group 3,1966-07-16,Portugal,Bulgaria,3,0,"Old Trafford, Manchester",Portugal
+1966--england,Group 3,1966-07-19,Portugal,Brazil,3,1,"Goodison Park, Liverpool",Portugal
+1966--england,Group 3,1966-07-20,Hungary,Bulgaria,3,1,"Old Trafford, Manchester",Hungary
+1966--england,Group 4,1966-07-12,Soviet Union,North Korea,3,0,"Ayresome Park, Middlesbrough",Soviet Union
+1966--england,Group 4,1966-07-13,Italy,Chile,2,0,"Roker Park, Sunderland",Italy
+1966--england,Group 4,1966-07-15,Chile,North Korea,1,1,"Ayresome Park, Middlesbrough",Draw
+1966--england,Group 4,1966-07-16,Soviet Union,Italy,1,0,"Roker Park, Sunderland",Soviet Union
+1966--england,Group 4,1966-07-19,North Korea,Italy,1,0,"Ayresome Park, Middlesbrough",North Korea
+1966--england,Group 4,1966-07-20,Soviet Union,Chile,2,1,"Roker Park, Sunderland",Soviet Union
+1966--england,Quarter-finals,1966-07-23,England,Argentina,1,0,"Wembley Stadium, London",England
+1966--england,Quarter-finals,1966-07-23,West Germany,Uruguay,4,0,"Hillsborough Stadium, Sheffield",West Germany
+1966--england,Quarter-finals,1966-07-23,Soviet Union,Hungary,2,1,"Roker Park, Sunderland",Soviet Union
+1966--england,Quarter-finals,1966-07-23,Portugal,North Korea,5,3,"Goodison Park, Liverpool",Portugal
+1966--england,Semi-finals,1966-07-25,West Germany,Soviet Union,2,1,"Goodison Park, Liverpool",West Germany
+1966--england,Semi-finals,1966-07-26,England,Portugal,2,1,"Wembley Stadium, London",England
+1966--england,Third-place match,1966-07-28,Portugal,Soviet Union,2,1,"Wembley Stadium, London",Portugal
+1966--england,Final,1966-07-30,England,West Germany,4,2,"Wembley Stadium, London",England
