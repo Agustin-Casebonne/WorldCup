@@ -1,7 +1,7 @@
 """Helper script: writes parse_openfootball_cups.py with the corrected parser."""
 import pathlib
 
-SRC = r"""#!/usr/bin/env python3
+SRC = r#!/usr/bin/env python3
 import re
 import os
 import csv
@@ -184,7 +184,7 @@ if __name__ == '__main__':
         ap.error('--import-mongo requires --mongo-uri')
     discover_and_parse(Path(args.data_dir), Path(args.out_dir),
                        import_mongo=args.import_mongo, mongo_uri=args.mongo_uri, db_name=args.db)
-"""
+
 
 pathlib.Path('parse_openfootball_cups.py').write_text(SRC, encoding='utf-8')
 print('Parser written successfully.')

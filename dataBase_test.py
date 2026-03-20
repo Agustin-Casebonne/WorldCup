@@ -1,6 +1,6 @@
 from pymongo import MongoClient
 
-MONGO_URI = "mongodb+srv://USER:PASS@cluster0.xxxxx.mongodb.net"  # pega tu URI (escapa caracteres especiales en la contraseña)
+MONGO_URI = ""  # pega tu URI aquí
 client = MongoClient(MONGO_URI, serverSelectionTimeoutMS=5000)
 
 db = client['worldcup']
